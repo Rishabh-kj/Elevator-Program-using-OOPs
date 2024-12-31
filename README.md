@@ -2,6 +2,7 @@
 **This program utilizes Object-Oriented Programming (OOP) principles, specifically inheritance and polymorphism, to model a basic elevator system implemented in C++. The program simulates the basic functionality of an elevator system, including user interaction for selecting floors and moving the elevator up or down.**
 
 **Technical Details: -**
+
 (1) Headers Included: The code includes several standard C++ headers like iostream, vector, ctime, algorithm, and string to use corresponding functionalities.
 
 (2) Enums: Two enums are declared - States (representing the direction of elevator movement: UP or DOWN) and Floor (representing different floors of the building).
